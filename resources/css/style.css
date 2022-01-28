@@ -1,0 +1,44 @@
+/* General */
+
+body {
+    background-color: black;
+    text-align: center;
+    font-family: Verdana;
+}
+
+/* Headings */
+
+h1,h2 {
+    color: white;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: normal;
+}
+
+h2 {
+    font-size: 42px;
+    font-weight: 300;
+}
+
+/* Links */ 
+
+a.download_link {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+/* Body Text */
+
+p {
+    color: gray;
+    font-size: 21px;
+}
+
+/* Copyright Footer */
+
+p.footer {
+    text-align: right;
+    color: gray;
+}
